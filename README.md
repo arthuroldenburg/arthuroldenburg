@@ -2,6 +2,29 @@
 
 <h3>- 🔭 I'm a Full Stack web developer graduated at Trybe, i'm seeking a job Full stack || back-end || front-end </h3>
 
+
+
+<h3>My Technologies</h3>
+
+<ul>
+  <li><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></li>
+  <li><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"></li>
+  <li><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"></li>
+  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></li>
+  <li><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter"></li>
+  <li><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></li>
+</ul>
+
+<h3>Test frameworks</h3>
+
+<ul>
+  <li><img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai"></li>
+  <li><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></li>
+  <li><img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha"></li>
+</ul>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
 <h3>Contact me at</h3>
 
 <a style="margin-right: 15px;" href="https://www.linkedin.com/in/arthur-oldenburg/" target="_blank">
