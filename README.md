@@ -5,7 +5,7 @@
 <h3>My Technologies</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/logo=javascript&logoColor=F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/&logo=javascript&logoColor=F7DF1E" alt="JS">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Git-2CA5E0?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
