@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Arthur
+<h1>### Hi there 👋 I'm Arthur ###</h1>
+
 <h3>- 🔭 I'm a Full Stack web developer graduated at Trybe, i'm seeking a job Full stack || back-end || front-end </h3>
 
 <a style="margin-right: 15px;" href="https://www.linkedin.com/in/arthur-oldenburg/" target="_blank">
