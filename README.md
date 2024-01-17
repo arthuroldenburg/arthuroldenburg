@@ -1,6 +1,6 @@
 <h1>### Hi there 👋 I'm Arthur ###</h1>
 
-<h3>- 🔭 I'm a Full Stack web developer graduated at Trybe, i'm seeking a job Full stack || back-end || front-end </h3>
+<h3>- 🔭 I'm a Full Stack web developer graduated at Trybe, i'm seeking a job back-end || Full stack || front-end </h3>
 
 <h3>My Technologies</h3>
 
